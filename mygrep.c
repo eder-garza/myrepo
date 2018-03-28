@@ -1,4 +1,4 @@
-/*
+/* 
 My program is a very basic form of the grep. I would like to point out 
 that my program works only in the form of "./mygrep -f <file-name>". If
 you try using the command in the form of "./mygrep --f=<file-name>", the
