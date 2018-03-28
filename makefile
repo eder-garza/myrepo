@@ -3,3 +3,5 @@ all: mygrep.o
 
 %.o: %.c
 	gcc -c $< -o $@
+clean:
+	rm mygrep.o mygrep
